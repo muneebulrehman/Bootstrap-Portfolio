@@ -6,3 +6,47 @@
 li {
 	list-style: none;
 }
+
+.work-list li {
+	background: #ebf0ee;
+	border-radius: 4px;
+	margin-bottom: 8px;
+	padding: 8px;
+	font-weight: 600;
+	margin-left: 5px;
+	margin-right: 5px;
+  }
+
+  .welcome {
+	color: #28352f;
+	font-weight: 600;
+	font-size: 20px;
+	min-width: 90px;
+	height: 28px;
+  }
+
+  .info {
+	color: #172b4d;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 28px;
+	margin-bottom: 60px;
+	padding: 0 18px;
+  }
+  
+  .icon-list {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+  }
+  
+  .icon-list li {
+	list-style: none;
+	margin-right: 19px;
+  }
+  
+  .icon-list a {
+	font-size: 25px;
+	color: #505f79;
+  }
